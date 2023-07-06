@@ -13,6 +13,7 @@ Data Analysis Steps:
 3. DAX Queries and Data Analysis: Created a few necessary columns in the data set to analyze the data more efficiently.
 4. Sales Forecasting: Leverage historic data and applied time series to generate sales forecasts for the next 15 days.
 5. Created a New table for forecasted data analysis using DAX Queries.
+6. Added a few Slicers for a better and easy understanding of the data.
 
 Learning:
 
